@@ -1,3 +1,4 @@
 # test_local_auth
 
-test task
+test task auth
+auth
